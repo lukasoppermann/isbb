@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:ISBB Institut Systemische Beratung Berlin
+ORG:ISBB Institut Systemische Beratung Berlin;
+EMAIL;type=INTERNET;type=WORK;type=pref:mail@isbb.org
+TEL;type=WORK;type=pref:+49 30 4171 6790
+TEL;type=WORK;type=FAX:+49 30 41716789
+item1.ADR;type=WORK;type=pref:;;Schönhauser Allee 6-7;;;10119;Berlin
+item1.X-ABADR:de
+item2.URL;type=pref:www.isbb.org
+item2.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+X-ABUID:F882B92D-4F45-4E0D-B0AF-52A8BE28228E\:ABPerson
+END:VCARD

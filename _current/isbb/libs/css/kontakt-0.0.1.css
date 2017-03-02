@@ -1,0 +1,27 @@
+#map_container{
+	display: block;
+	height: 120%;
+	width: 120%;
+	margin: 0 0 -10% -10%;
+	border-width: 1px 0;
+	border-style: solid;
+	border-color: rgb(250,250,250);
+}
+.wrapper{
+	display: block;
+	float: left;
+	clear: both;
+	width: 100%;	
+}
+.box{
+	display: block;
+	float: left;
+	width: 45%;
+}
+.box.right{
+	padding-top: 19px;
+}
+p.vcard{
+	display: inline-block;
+	float: left;
+}

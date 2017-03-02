@@ -1,0 +1,26 @@
+.icons a:before{
+	content: "";
+	display: block;
+	float: left;
+	height: 16px;
+	width: 16px;
+	z-index: 15;
+}
+/*------------------------*/
+/* logout icon */
+.logout a:before{
+	margin: -1px 6px 2px -4px;
+	background-image: url('../../media/layout/formandsystem_icons.png');
+	background-position: -240px -32px;	
+	opacity: 0.85;
+}
+.logout:hover a:before{
+	background-position: -240px -48px;	
+	opacity: 0.8;
+}
+.logout a{
+	width: 7px;
+	height: 13px;
+	overflow: hidden;
+}
+/*------------------------*/

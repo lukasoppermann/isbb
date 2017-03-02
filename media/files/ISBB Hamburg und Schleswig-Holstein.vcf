@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:ISBB Hamburg und Schleswig-Holstein
+ORG:ISBB Hamburg und Schleswig-Holstein;
+EMAIL;type=INTERNET;type=WORK;type=pref:mail.nord@isbb.org
+TEL;type=WORK;type=pref:+49 4121 2776 544
+TEL;type=WORK;type=FAX:+4 930 4171 6789
+item1.ADR;type=WORK;type=pref:;;Catherinenstr. 2;;;25335;Deutschland
+item1.X-ABADR:de
+item2.URL;type=pref:www.isbb.org
+item2.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+X-ABUID:34A0E048-C750-40AE-874E-ED62B1AB0BDD\:ABPerson
+END:VCARD
