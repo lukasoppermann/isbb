@@ -1,0 +1,20 @@
+#content{
+	padding-right: 20px;
+}
+#content .image, #content .image img, #content .team-member{
+	float: left;
+}
+#content .image{
+	margin-right: 20px;
+}
+#content .team-member h2, #content .team-member p{
+	float: left;
+	position: relative;
+}
+
+#content .team-member h2{
+	margin-top: 0;
+}
+#content .team-member{
+	margin-bottom: 20px;
+}
